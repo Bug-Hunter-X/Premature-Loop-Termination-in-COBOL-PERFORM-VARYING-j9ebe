@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon COBOL error involving premature loop termination within a PERFORM VARYING statement. The initial code exhibits a logical flaw leading to unexpected results. The solution provides a corrected version with improved clarity and functionality.  This error is often subtle and difficult to detect without careful code review.
